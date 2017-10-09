@@ -1,0 +1,224 @@
+{
+    "skills": [
+        {
+            "name": "code",
+            "skills": [
+                {
+                    "name": "Javascript (nodejs)",
+                    "score": 8
+                },
+                {
+                    "name": "Actionscript",
+                    "score": 8
+                },
+                {
+                    "name": "Swift (iOS)",
+                    "score": 8
+                },
+                {
+                    "name": "C#",
+                    "score": 8
+                },
+                {
+                    "name": "Perl",
+                    "score": 7
+                },
+                {
+                    "name": "C++",
+                    "score": 5
+                },
+                {
+                    "name": "Max/MSP",
+                    "score": 4
+                },
+                {
+                    "name": "HTML",
+                    "score": 4
+                },
+                {
+                    "name": "CSS",
+                    "score": 4
+                },
+                {
+                    "name": "Supercollider",
+                    "score": 4
+                },
+                {
+                    "name": "GLSL",
+                    "score": 3
+                },
+                {
+                    "name": "OpenCL",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "name": "databases",
+            "skills": [
+                {
+                    "name": "MySQL",
+                    "score": 8
+                },
+                {
+                    "name": "MongoDB",
+                    "score": 6
+                },
+                {
+                    "name": "Redis",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "name": "software",
+            "skills": [
+                {
+                    "name": "Unity3D",
+                    "score": 8
+                },
+                {
+                    "name": "Xcode",
+                    "score": 8
+                },
+                {
+                    "name": "git",
+                    "score": 8
+                },
+                {
+                    "name": "docker",
+                    "score": 7
+                },
+                {
+                    "name": "Mono Develop",
+                    "score": 7
+                },
+                {
+                    "name": "Visual Studio",
+                    "score": 6
+                },
+                {
+                    "name": "Jenkins",
+                    "score": 3
+                },
+                {
+                    "name": "Wekinator",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "name": "hardware",
+            "skills": [
+                {
+                    "name": "Full color LED bulbs",
+                    "score": 8
+                },
+                {
+                    "name": "Custom controller",
+                    "score": 8
+                },
+                {
+                    "name": "Kinect",
+                    "score": 7
+                },
+                {
+                    "name": "Oculus Rift",
+                    "score": 6
+                },
+                {
+                    "name": "Myo",
+                    "score": 5
+                },
+                {
+                    "name": "GameTrak",
+                    "score": 5
+                },
+                {
+                    "name": "Raspberry Pi",
+                    "score": 4
+                },
+                {
+                    "name": "MindWave",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "name": "os",
+            "skills": [
+                {
+                    "name": "OSX",
+                    "score": 8
+                },
+                {
+                    "name": "Linux",
+                    "score": 7
+                },
+                {
+                    "name": "Windows",
+                    "score": 6
+                }
+            ]
+        },
+        {
+            "name": "frameworks",
+            "skills": [
+                {
+                    "name": "openframeworks",
+                    "score": 6
+                },
+                {
+                    "name": "swagger",
+                    "score": 6
+                },
+                {
+                    "name": "cinder",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "name": "misc",
+            "skills": [
+                {
+                    "name": "client/server setup",
+                    "score": 8
+                },
+                {
+                    "name": "SCRUM",
+                    "score": 8
+                },
+                {
+                    "name": "network communication",
+                    "score": 7
+                },
+                {
+                    "name": "DMX",
+                    "score": 7
+                },
+                {
+                    "name": "TPM2",
+                    "score": 7
+                },
+                {
+                    "name": "ftdi communication",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "name": "languages",
+            "skills": [
+                {
+                    "name": "German (mother tongue)",
+                    "score": 10
+                },
+                {
+                    "name": "English",
+                    "score": 7
+                }
+            ]
+        }
+    ]
+}

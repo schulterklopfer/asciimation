@@ -1,0 +1,368 @@
+1
+
+  ___             _         _                  _ _
+ / __|  _ _ _ _ _(_)__ _  _| |_  _ _ __   __ _(_) |_ __ _ ___
+| (_| || | '_| '_| / _| || | | || | '  \  \ V / |  _/ _` / -_)
+ \___\_,_|_| |_| |_\__|\_,_|_|\_,_|_|_|_|  \_/|_|\__\__,_\___|
+
+    __  __            _               __        __    _  __ 
+   |  \/  | __ _ _ __| | ___   _ ___  \ \      / /__ | |/ _|
+   | |\/| |/ _` | '__| |/ / | | / __|  \ \ /\ / / _ \| | |_ 
+   | |  | | (_| | |  |   <| |_| \__ \   \ V  V / (_) | |  _|
+   |_|  |_|\__,_|_|  |_|\_\\__,_|___/    \_/\_/ \___/|_|_|  
+
+1
+Address         Markus Wolf
+                Wutzlhofen 49
+                93057 Regensburg
+                Germany
+
+Date of birth   November 22, 1974
+
+Mobile          +49 179 1139991
+Email           jash@schulterklopfer-productions.de 
+Youtube         https://www.youtube.com/user/eljashel
+Vimeo           https://vimeo.com/user19303255
+GitHub          https://github.com/schulterklopfer
+Soundcloud      https://soundcloud.com/schulterklopfer/
+1
+
+
+
+                      
+                _                           _                 
+__ __ _____ _ _| |__  _____ ___ __  ___ _ _(_)___ _ _  __ ___ 
+\ V  V / _ \ '_| / / / -_) \ / '_ \/ -_) '_| / -_) ' \/ _/ -_)
+ \_/\_/\___/_| |_\_\ \___/_\_\ .__/\___|_| |_\___|_||_\__\___|
+                             |_|                              
+
+
+
+
+1
+
+
+2017            LIGHT OBJECT
+                Theaterball 2017 at the Theater Regensburg.
+
+2016            FREELANCER
+                Billman Event GmbH
+                Presentation software to support sales 
+                representatives for Sanhua. (c#/Unity3D, 
+                nodejs/javascript)
+
+
+
+1
+
+
+
+
+2016            FREELANCER
+                Billman Events GmbH
+                Control software for interactive booths at the 
+                Chilventa Expo 2016 for Sanhua.
+                (c#/Unity3D, nodejs/javascript)
+
+
+
+
+1
+
+2016            AUDIOVISUAL INSTALLATION
+                Con_Temporary Guerricke
+                Mandala - An ambisonic space, creating structure
+                from noise. (openframeworks, supercollider)
+
+
+
+
+
+
+
+
+1
+
+2015-2016       FREELANCER
+                adidas group
+                iOS app to support the workflow in adidas stores 
+                around the world. (swift, javascript/nodejs, 
+                swagger)
+
+
+
+
+
+
+
+1
+
+2015            FREELANCER
+                adidas group
+                iPhone app to support scouting for new talents. 
+                (swift, javascript/nodejs, swagger)
+
+
+
+
+
+
+
+
+1
+2015            AUDIOVISUAL INSTALLATION
+                Con_Temporary Degginger
+                Pilgrim - Visualising a 1300km journey through
+                Japan. (unity 3d, supercollider)
+
+
+
+
+
+
+
+
+
+1
+2015            FREELANCER
+                Cheil Worldwide MDLab Munich
+                Member of a conceptual workshop, with the goal
+                of redesigning the inter- active content of
+                Samsung's d'light building in Seoul.
+
+
+
+
+
+
+
+
+1
+2014-2015       FREELANCER
+                Designit
+                Designing and coding a framework in Actionscript 
+                which can be used to quickly develop multimedia 
+                applications with realtime communication support,
+                asset handling and syncing from several remote
+                services. Part of my job also was to support
+                developers using this framework and help
+                building interactive applications on custom
+                hardware. The framework will be used at 
+                SharafDG's flagship store in Dubai.
+                (actionscript, openframeworks)
+
+1
+2014            VR INSTALLATION
+                Digital Analog Festival M?nchen 
+                Interactive installation in collaboration with
+                Martin Nothhelfter and Alexander Peters.
+                (cinder)
+
+
+
+
+
+
+
+
+1
+2014            FREELANCER
+                BUISSULTIMO
+                iPad App used to collect receipts which are sent
+                directly to the tax accountant.
+                (ObjC)
+
+
+
+
+
+
+
+
+1
+2014            FREELANCER
+                Unikia AS
+                Prototype hardware design concept.
+
+
+
+
+
+
+
+
+
+
+1
+                
+2014            INTERACTIVE INSTALLATION
+                Kunstverein Graz Regensburg
+                Interactive installation in collaboration with 
+                Martin Pesold and Markus Guentner.
+                (libcinder, kinect)
+
+
+
+
+
+
+
+1
+2013            FREELANCER
+                adidas group
+                iPad app used to collect medical data in the 
+                adidas athlete service center. 
+                (ObjC)
+
+
+
+
+
+
+
+
+1
+2011-2013       Senior software engineer and technical project
+                lead at designaffairs in Munich.
+
+
+
+
+
+
+
+
+
+
+
+1
+2008-2011       Team leader and developer at SPiN AG Regensburg
+                within the project "freggers.de"
+
+
+
+
+
+
+
+
+
+
+
+1
+1998            Working student at Siemens Automotive AG AT OI PO
+                and developer at SPiN AG in Regensburg
+
+
+
+
+
+
+
+
+
+
+
+1
+1996-2008       Developer at SPiN AG Regensburg within the
+                project "spin.de" Co-founder of the company
+                "SPiN AG" in Regensburg
+
+
+
+
+
+
+
+
+
+
+1
+        _              _   _          
+ ___ __| |_  _ __ __ _| |_(_)___ _ _  
+/ -_) _` | || / _/ _` |  _| / _ \ ' \ 
+\___\__,_|\_,_\__\__,_|\__|_\___/_||_|
+
+
+
+
+
+
+
+
+
+1
+
+2003            Masters degree in general linguistics specialized
+                in information science and philosophy (2.0)
+
+
+
+
+
+
+
+
+
+
+1
+1998-2003       Master studies in general linguistics with focus
+                on information science and philosophy
+
+
+
+
+
+
+
+
+
+
+
+1
+1995-1998       Master studies in general linguistics with focus 
+                on information science and business information
+                science
+
+
+
+
+
+
+
+
+
+
+1
+1994-1995       Civil service at University Medical Center
+                Regensburg / Radiology
+
+
+
+
+
+
+
+
+
+
+
+1                
+1994            High school graduation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

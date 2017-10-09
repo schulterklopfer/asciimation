@@ -1,0 +1,16 @@
+{
+  "name": "asciimationtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "figlet": "^1.2.0",
+    "string_decoder": "^1.0.3"
+  }
+}
